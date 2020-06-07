@@ -1,0 +1,10 @@
+Este es un sistema de multiples juegos de Mario Bros, el cual te da una lista de los juegos que puedes elegir según
+sea el año en que fueron creados.
+Ejemplo:
+El usuario quiere jugar un juego que haya sido creado en el 2010, pues ingresa el año y le saldrá un listado de juegos
+de ese año, el cual tiene el usuario va a elegir cual jugar 
+
+
+Integrantes:
+Omar Alejandro Ake Bellos
+Adrián Guadalupe Balam Jimenez
